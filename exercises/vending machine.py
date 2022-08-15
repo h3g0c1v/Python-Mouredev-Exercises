@@ -7,9 +7,6 @@
 #  * - Si el dinero es insuficiente o el número de producto no existe,
 #  *   deberá indicarse con un mensaje y retornar todas las monedas.
 #  * - Si no hay dinero de vuelta, el array se retornará vacío.
-#  * - Para que resulte más simple, trabajaremos en céntimos con monedas
-#  *   de 5, 10, 50, 100 y 200.
-#  * - Debemos controlar que las monedas enviadas estén dentro de las soportadas.
 #  */
 
 products = ['Sandwich', 'Aquarius', 'Cheetos', 'Patatas', 'Conguitos', 'Oreo', 'Kinder Bueno']
