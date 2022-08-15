@@ -1,0 +1,12 @@
+Kotlin - https://play.kotlinlang.org/
+Swift - http://online.swiftplayground.run/
+Dart - https://dartpad.dev/
+Python - https://www.online-python.com/
+JavaScript - https://runjs.co/
+TypeScript - https://www.typescriptlang.org/play
+Java - https://code.sololearn.com/java
+C# - https://dotnetfiddle.net/
+PHP - https://onlinephp.io/
+Go - https://go.dev/play/
+Rust - https://play.rust-lang.org/
+Cobol - https://www.jdoodle.com/execute-cobol-online/
